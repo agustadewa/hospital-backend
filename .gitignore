@@ -13,3 +13,12 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+.idea/.gitignore
+.idea/dictionaries/
+.idea/hospital-backend.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+
+config.json

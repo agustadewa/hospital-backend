@@ -1,0 +1,19 @@
+{
+  "service_host": "0.0.0.0",
+  "service_port": "8080",
+  "mongo_url": "",
+  "repositories": {
+    "account": {
+      "db_name": "account",
+      "coll_name": "account"
+    },
+    "doctor": {
+      "db_name": "doctor",
+      "coll_name": "doctor"
+    },
+    "appointment": {
+      "db_name": "appointment",
+      "coll_name": "appointment"
+    }
+  }
+}
